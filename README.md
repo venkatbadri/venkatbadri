@@ -66,33 +66,6 @@
 
 ---
 
-## 👨‍💻 Professional Experience
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏢 Data Science Intern</h4>
-      <strong>Maxbyte Technologies (India)</strong><br>
-      <ul>
-        <li>Built <b>real-time fault detection</b> dashboards for compressors.</li>
-        <li>Applied <b>vibration analysis</b> for predictive maintenance.</li>
-        <li>Enhanced operational efficiency via sensor data.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔍 Research & Insights Analyst</h4>
-      <strong>Applied Engineering Project</strong><br>
-      <ul>
-        <li>Collaborated with <b>Merideon Wealth Strategies</b>.</li>
-        <li>Conducted market research & <b>competitor benchmarking</b>.</li>
-        <li>Explored <b>AI integration</b> in financial workflows.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ##  Selected Projects
 
 | Project | Tech Stack | Link |
